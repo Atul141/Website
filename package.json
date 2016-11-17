@@ -1,0 +1,22 @@
+{
+  "name": "Website",
+  "version": "0.0.01",
+  "description": "A website to showcase my resume",
+  "engines": {
+    "node": "6.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Atul141/Website.git",
+    "keywords": [
+      "node",
+      "heroku",
+      "express"
+    ],
+    "license": "MIT"
+  }
+}
